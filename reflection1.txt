@@ -1,0 +1,24 @@
+Using diff to display the changes between versions, is a very fast way to zoom in on what has caused the bug.
+
+Having acces to all versions of a file, will allow me to revert back if something breaks, but also highlight when unnessesary code was written.
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+Full control over the logic behind the commits.
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Git is build specifically for coding. It is important to snapshot a version of the entire project.
+
+
+How can you use the commands git log and git diff to view the history of files?
+git log can be used to browse when a version vas committed. git diff can compare versions to view changes.
+
+
+How might using version control make you more confident to make changes that could break something?
+Security that everything is backed up to a working checkpoint.
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Some kind of version control?? !!
+
