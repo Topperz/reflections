@@ -4,3 +4,24 @@ It creates the initial git files, so you can start commiting versions.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It works as a temporary workspace for files that needs to be commited. It helps to eliminate unnessesary commits.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+I can use diff --staged to make sure that only one change is being commited, when compared to the master file.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When trying to add new features, or changing the language. Using branches makes sure that the master commit is only updated when things have been worked out.
+
+
+How do the diagrams help you visualize the branch structure?
+Having a 2d representation of the project stucture, improves the overview.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Adding functions from 2 parallel development processes into 1.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Git should only merge automaticaly when there is no risk of conflicts in the code, ie. altered functions. When merging manually you can make sure that everything works as intended.
+
+
