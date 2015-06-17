@@ -1,1 +1,2 @@
-Lesson3
+When would you want to use a remote repository rather than keeping all your work local?
+Remote repositorys are helpful with working with other people. It also serves as a backup for the local repository.
